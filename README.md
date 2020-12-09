@@ -69,3 +69,7 @@ Pxhawk version: 4
 5. 받아올 텍스트파일 이름을 정해줘야 한다. 맨 밑의 while문을 보면 open('drone1.txt','r')로 되있으므로 알맞게 수정한다.
 
 6. 사용한다.
+
+# 참고 자료
+https://gist.github.com/donghee/506da309ed8e5e1ce656b5116b48fa1f
+필자가 github 사용법을 잘 몰라 이렇게 밖에 남길 수 없다.
